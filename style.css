@@ -1,0 +1,18 @@
+h3{
+ color:red ;   
+}
+#name{
+   color: rgb(63, 46, 139);
+}
+.name2{
+   color: rgb(207, 203, 235);
+}
+.name2.name3{
+   color: yellow;
+}
+div p{
+   color: violet;
+}
+body{
+   background-color: teal;
+}
